@@ -81,8 +81,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #18bc9c;
+    color: #0c0b0b;
+    background: #ffffff;
 }
 
 header .container {
@@ -180,8 +180,8 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #18bc9c;
+    color: #000000;
+    background: #ffffff;
 }
 
 @media(max-width:767px) {
