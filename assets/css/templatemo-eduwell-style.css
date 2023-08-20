@@ -314,18 +314,19 @@ header
 }
 
 .header-area .main-nav .nav li {
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .header-area .main-nav .nav li:last-child {
   padding-right: 0px;
+  
 }
 
 .header-area .main-nav .nav li a {
   display: block;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 13px;
   text-transform: capitalize;
   color: #fff;
   -webkit-transition: all 0.3s ease 0s;
